@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I live in New Delhi, India and I'm currently pursuing M.C.A (Master of Computer Applications) from G.G.S.I.P.U.
+
+🔭 I am looking for career opportunities involving communities where I can put my skills to proper use.
+📧 Reach me at: vipulsharma9696@gmail.com
 <!--
 **vipsh18/vipsh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
