@@ -12,9 +12,6 @@ I am
 - ♿ create accessible software for all sections of the society 
 - 🌏 and I plan on doing that sustainably, trying my best not to harm the environment
 
-### 🌐 Languages 
-English, Hindi
-
 ### 💻 Technical Skills
 **Programming**  
 Python, Java
@@ -28,11 +25,14 @@ Node.js, PHP, MySQL
 **Tools**  
 Git, jUnit
 
+### 🌐 Languages  
+English, Hindi
+
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/vip_sh18)
 - [Mail](mailto:vipulsharma9696@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/vipul-sharma18/)
-- [Personal Portfolio](https://)
+- [Personal Portfolio](https://vipsh18.github.io/)
 
 <!--
 - 🔭 I’m currently working on ...
