@@ -4,7 +4,7 @@ I am
 - 🏫 An **aspiring software developer** currently pursuing M.C.A. (Master of Computer Applications) from _GGSIPU_
 - 👨‍💻 Currently working on enhancing my algorithmic thinking and skills
 - 🌱 Learning more about **Open Source**
-- ⚡ Fun fact: I am a huge fan of the Marvel franchise
+- ⚡ Fun fact: I am a huge fan of the Marvel movie franchise
 
 ### 🔭 I am looking forward to...
 - ✨ career opportunities involving communities where I can put my skills to proper use
@@ -13,17 +13,14 @@ I am
 - 🌏 and I plan on doing that sustainably, trying my best not to harm the environment
 
 ### 💻 Technical Skills
-**Programming**  
-Python, Java
+**Programming Languages**  
+Python, Java, HTML, CSS/SCSS, JavaScript(ES6+), PHP, SQL
 
-**Front-End**  
-HTML, CSS, JavaScript, jQuery, Bootstrap
+**Libraries & Frameworks**  
+jQuery, Node, Bootstrap, Express, jUnit
 
-**Back-End**  
-Node.js, PHP, MySQL
-
-**Tools**  
-Git, jUnit
+**Tools & Platforms**  
+Bash, Git, MongoDB, MySQL
 
 ### 🌐 Languages  
 English, Hindi
