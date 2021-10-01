@@ -1,7 +1,7 @@
 ## Hello everyone 👋
 
 I am
-- 🏫 An **aspiring software developer** currently pursuing M.C.A. (Master of Computer Applications) from _GGSIPU_
+- 🏫 A **software developer** currently pursuing M.C.A. (Master of Computer Applications) from _GGSIPU_
 - 👨‍💻 Currently working on enhancing my algorithmic thinking and skills
 - 🌱 Learning more about **Open Source**
 - ⚡ Fun fact: I am a huge fan of the Marvel movie franchise
