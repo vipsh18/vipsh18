@@ -17,7 +17,7 @@ I am
 Python, Java, HTML, CSS/SCSS, JavaScript(ES6+), PHP, SQL
 
 **Libraries & Frameworks**  
-jQuery, Node, Bootstrap, Express, jUnit
+Django, Node, React.js, Bootstrap, Express, jQuery, jUnit
 
 **Tools & Platforms**  
 Bash, Git, MongoDB, MySQL
