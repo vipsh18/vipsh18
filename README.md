@@ -1,7 +1,7 @@
 ## Hello everyone 👋
 
 I am
-- 🏫 A **software developer** currently pursuing M.C.A. (Master of Computer Applications) from _GGSIPU_
+- 🏫 A post-graduate **software developer** currently working at a startup _Build With Innovation_.
 - 👨‍💻 Currently working on enhancing my algorithmic thinking and skills
 - 🌱 Learning more about **Open Source**
 - ⚡ Fun fact: I am a huge fan of the Marvel movie franchise
@@ -14,13 +14,13 @@ I am
 
 ### 💻 Technical Skills
 **Programming Languages**  
-Python, Java, HTML, CSS/SCSS, JavaScript(ES6+), PHP, SQL
+Python, Java, JavaScript(ES6+), TypeScript, HTML, CSS/SCSS, PHP, SQL
 
-**Libraries & Frameworks**  
-Django, Node, React.js, Bootstrap, Express, jQuery, jUnit
+**Libraries, Frameworks & SDKs**  
+Angular, Firebase, Node, Bootstrap, Express, jQuery, jUnit
 
 **Tools & Platforms**  
-Bash, Git, MongoDB, MySQL
+Ionic, Bash, Git, MongoDB, MySQL
 
 ### 🌐 Languages  
 English, Hindi
