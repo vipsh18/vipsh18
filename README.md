@@ -17,10 +17,10 @@ I am
 Python, Java, JavaScript(ES6+), TypeScript, HTML, CSS/SCSS, PHP, SQL
 
 **Libraries, Frameworks & SDKs**  
-Angular, Firebase, Node, Bootstrap, Express, jQuery, jUnit
+Angular, Firebase, Node, Ionic, Bootstrap, Express, jQuery, jUnit
 
 **Tools & Platforms**  
-Ionic, Bash, Git, MongoDB, MySQL
+Bash, Git, MongoDB, MySQL
 
 ### 🌐 Languages  
 English, Hindi
