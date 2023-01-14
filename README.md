@@ -17,7 +17,7 @@ I am
 Python, Java, JavaScript(ES6+), TypeScript, HTML, CSS/SCSS, PHP, SQL
 
 **Libraries, Frameworks & SDKs**  
-Angular, Firebase, Node, Ionic, Bootstrap, Express, jQuery, jUnit
+Angular, Firebase, Node, Ionic, Cordova, Bootstrap, Express, jQuery, jUnit
 
 **Tools & Platforms**  
 Bash, Git, MongoDB, MySQL
