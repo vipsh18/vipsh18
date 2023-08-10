@@ -3,24 +3,22 @@
 I am
 - 🏫 A post-graduate **software developer** currently working at a startup _Build With Innovation_.
 - 👨‍💻 Currently working on enhancing my algorithmic thinking and skills
-- 🌱 Learning more about **Open Source**
-- ⚡ Fun fact: I am a huge fan of the Marvel movie franchise
 
-### 🔭 I am looking forward to...
-- ✨ career opportunities involving communities where I can put my skills to proper use
-- 🤝 contribute to open source projects
-- ♿ create accessible software for all sections of the society 
-- 🌏 and I plan on doing that sustainably, trying my best not to harm the environment
+I have a deep passion for writing code, constantly yearning to expand my knowledge. My journey began as a web developer and later shifted towards software development. Through my experiences, I have discovered the fascinating potential of modern technologies harnessed by the human mind when provided with the right opportunities.
+
+I thoroughly enjoy engaging in discussions about emerging technologies, and I hold the belief that understanding core concepts allows one to adapt to any programming language with ease, given some basic information.
+
+Looking ahead, I am eager to explore career opportunities within communities that align with my skills, enabling me to make a positive impact. Additionally, I am excited to dive deeper into the realm of Open Source and contribute to projects that promote accessibility for all sections of society. It is essential to me that these endeavors are undertaken sustainably, with a commitment to minimize harm to the environment.
 
 ### 💻 Technical Skills
 **Programming Languages**  
-Python, Java, JavaScript(ES6+), TypeScript, HTML, CSS/SCSS, PHP, SQL
+Python, JavaScript(ES6+), TypeScript, HTML, CSS/SCSS, SQL
 
 **Libraries, Frameworks & SDKs**  
-Angular, Firebase, Node, Ionic, Cordova, Bootstrap, Express, jQuery, jUnit
+React, Angular, Firebase, Node, Ionic, Bootstrap, Express, jQuery
 
 **Tools & Platforms**  
-Bash, Git, MongoDB, MySQL
+Git, MongoDB, MySQL
 
 ### 🌐 Languages  
 English, Hindi
