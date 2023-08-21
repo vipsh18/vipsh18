@@ -15,7 +15,7 @@ Looking ahead, I am eager to explore career opportunities within communities tha
 Python, JavaScript(ES6+), TypeScript, HTML, CSS/SCSS, SQL
 
 **Libraries, Frameworks & SDKs**  
-React, Angular, Firebase, NodeJS, Ionic, Bootstrap, Express, jQuery
+React, Angular, Firebase, Node.js, Ionic, Bootstrap, Express, jQuery
 
 **Tools & Platforms**  
 Git, MongoDB, MySQL
