@@ -12,10 +12,10 @@ Looking ahead, I am eager to explore career opportunities within communities tha
 
 ### 💻 Technical Skills
 **Programming Languages**  
-Python, JavaScript(ES6+), TypeScript, HTML, CSS/SCSS, SQL
+Rust, JavaScript(ES6+), TypeScript, HTML, CSS/SCSS, SQL
 
 **Libraries, Frameworks & SDKs**  
-React, Angular, Firebase, Node.js, Ionic, Bootstrap, Express, jQuery
+Angular, Firebase, Node.js, Ionic, Bootstrap, Express, jQuery
 
 **Tools & Platforms**  
 Git, MongoDB, MySQL
