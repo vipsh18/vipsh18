@@ -1,7 +1,7 @@
 ## Hello everyone 👋
 
 I am
-- 🏫 A post-graduate **software developer** currently working at a startup _Build With Innovation_.
+- 🏫 A post-graduate **Senior Software Developer** currently working at a startup _Cabswale_.
 - 👨‍💻 Currently working on enhancing my algorithmic thinking and skills
 
 I have a deep passion for writing code, constantly yearning to expand my knowledge. My journey began as a web developer and later shifted towards software development. Through my experiences, I have discovered the fascinating potential of modern technologies harnessed by the human mind when provided with the right opportunities.
