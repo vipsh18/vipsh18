@@ -11,23 +11,32 @@ I thoroughly enjoy engaging in discussions about emerging technologies, and I ho
 Looking ahead, I am eager to explore career opportunities within communities that align with my skills, enabling me to make a positive impact. Additionally, I am excited to dive deeper into the realm of Open Source and contribute to projects that promote accessibility for all sections of society. It is essential to me that these endeavors are undertaken sustainably, with a commitment to minimize harm to the environment.
 
 ### 💻 Technical Skills
-**Programming Languages**  
-JavaScript(ES6+), TypeScript, HTML, CSS/SCSS, SQL
+**Languages**  
+JavaScript (ES6+) • TypeScript • Java • HTML5 • CSS3 / SCSS • SQL
 
-**Libraries, Frameworks & SDKs**  
-Angular, Firebase, Node.js, Ionic, Bootstrap, Express, jQuery
+**Frontend**
+Angular • React • Ionic • Bootstrap • jQuery • RxJS
 
-**Tools & Platforms**  
-Git, MongoDB, MySQL, BigQuery
+**Backend**
+Node.js • Express.js • REST APIs • Socket.io • WebSockets • Microservices
+
+**Databases**
+Firebase Firestore • MongoDB • MySQL • Redis
+
+**Cloud / Tools**
+Firebase - Google Cloud Platform (GCP) • Git • GitHub • Postman
+
+**Concepts**
+REST APIs • Real-time Systems • API Security • Agile / Scrum
 
 ### 🌐 Languages  
 English, Hindi
 
 ### 📫 How to reach me?
-- [Twitter](https://twitter.com/vip_sh18)
 - [Mail](mailto:vipulsharma9696@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/vipul-sharma18/)
 - [Personal Portfolio](https://vipsh18.github.io/)
+- [Twitter](https://twitter.com/vip_sh18)
 
 <!--
 - 🔭 I’m currently working on ...
