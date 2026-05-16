@@ -14,19 +14,19 @@ Looking ahead, I am eager to explore career opportunities within communities tha
 **Languages**  
 JavaScript (ES6+) • TypeScript • Java • HTML5 • CSS3 / SCSS • SQL
 
-**Frontend**
+**Frontend** 
 Angular • React • Ionic • Bootstrap • jQuery • RxJS
 
-**Backend**
+**Backend** 
 Node.js • Express.js • REST APIs • Socket.io • WebSockets • Microservices
 
-**Databases**
+**Databases** 
 Firebase Firestore • MongoDB • MySQL • Redis
 
-**Cloud / Tools**
+**Cloud / Tools** 
 Firebase - Google Cloud Platform (GCP) • Git • GitHub • Postman
 
-**Concepts**
+**Concepts** 
 REST APIs • Real-time Systems • API Security • Agile / Scrum
 
 ### 🌐 Languages  
