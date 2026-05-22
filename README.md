@@ -30,7 +30,7 @@ Firebase - Google Cloud Platform (GCP) • Git • GitHub • Postman • Bigque
 REST APIs • Real-time Systems • API Security • Agile / Scrum
 
 ### 💼 Resume Link
-https://drive.google.com/file/d/1WHViT8q5GvheqjCugfMuSVdJ-ZNFukOx/view?usp=sharing
+https://drive.google.com/file/d/19StksQHQnYDgOXeNtoVB_MUbBGhDJw5Q/view?usp=sharing
 
 ### 🌐 Languages  
 English, Hindi
