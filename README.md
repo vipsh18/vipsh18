@@ -24,7 +24,7 @@ Node.js • Express.js • REST APIs • Socket.io • WebSockets • Microservi
 Firebase Firestore • MongoDB • MySQL • Redis
 
 **Cloud / Tools**  
-Firebase - Google Cloud Platform (GCP) • Git • GitHub • Postman
+Firebase - Google Cloud Platform (GCP) • Git • GitHub • Postman • Bigquery
 
 **Concepts**  
 REST APIs • Real-time Systems • API Security • Agile / Scrum
