@@ -24,13 +24,13 @@ Node.js • Express.js • REST APIs • Socket.io • WebSockets • Microservi
 Firebase Firestore • MongoDB • MySQL • Redis
 
 **Cloud / Tools**  
-Firebase - Google Cloud Platform (GCP) • Git • GitHub • Postman • Bigquery • CI/CD • Jest
+Firebase - Google Cloud Platform (GCP) • Docker • Git • GitHub • Postman • Bigquery • CI/CD • Jest
 
 **Concepts**  
 REST APIs • Real-time Systems • API Security • Agile / Scrum
 
 ### 💼 Resume Link
-https://drive.google.com/file/d/1CAIQ2NhB9IuDmNc2ngHN5C4zirEV-Oer/view?usp=sharing
+https://drive.google.com/file/d/1INzl4QabqC88sQi8Sc4HLSsp1U3I7ON5/view?usp=sharing
 
 ### 🌐 Languages  
 English, Hindi
